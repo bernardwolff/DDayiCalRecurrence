@@ -1,0 +1,12 @@
+c:\users\bernard.wolff\documents\visual studio 2010\Projects\DDayIcalRecurrence\DDayIcalRecurrence\bin\DDayIcalRecurrence.dll
+c:\users\bernard.wolff\documents\visual studio 2010\Projects\DDayIcalRecurrence\DDayIcalRecurrence\bin\DDayIcalRecurrence.pdb
+c:\users\bernard.wolff\documents\visual studio 2010\Projects\DDayIcalRecurrence\DDayIcalRecurrence\obj\Debug\ResolveAssemblyReference.cache
+c:\users\bernard.wolff\documents\visual studio 2010\Projects\DDayIcalRecurrence\DDayIcalRecurrence\obj\Debug\DDayIcalRecurrence.dll
+c:\users\bernard.wolff\documents\visual studio 2010\Projects\DDayIcalRecurrence\DDayIcalRecurrence\obj\Debug\DDayIcalRecurrence.pdb
+c:\users\bernard.wolff\documents\visual studio 2010\Projects\DDayIcalRecurrence\DDayIcalRecurrence\bin\DDay.iCal.dll
+C:\Projects\DDayiCalRecurrence\DDayIcalRecurrence\bin\DDayIcalRecurrence.dll
+C:\Projects\DDayiCalRecurrence\DDayIcalRecurrence\bin\DDayIcalRecurrence.pdb
+C:\Projects\DDayiCalRecurrence\DDayIcalRecurrence\bin\DDay.iCal.dll
+C:\Projects\DDayiCalRecurrence\DDayIcalRecurrence\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\DDayiCalRecurrence\DDayIcalRecurrence\obj\Debug\DDayIcalRecurrence.dll
+C:\Projects\DDayiCalRecurrence\DDayIcalRecurrence\obj\Debug\DDayIcalRecurrence.pdb
